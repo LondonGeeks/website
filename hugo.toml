@@ -37,7 +37,7 @@ copyright = "&copy;2025 the Geeks of London Webmasters"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/portal.png"
+      file = "images/bg.png"
       position = "left center"
 
     # Video
