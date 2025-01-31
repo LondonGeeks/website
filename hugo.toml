@@ -55,7 +55,7 @@ copyright = "&copy;2025 the Geeks of London Webmasters"
       heading = "Contact Us"
 
       [[params.links.list1.link]]
-        text = "Upcoming Meetings"
+        text = "Meetings (Heylo group)"
         url = "https://www.heylo.com/g/61c6e325-35e1-41ee-a970-7c2a8515d09c"
         new_tab = true # new tab
 
