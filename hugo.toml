@@ -61,7 +61,7 @@ copyright = "&copy;2025 the Geeks of London Webmasters"
 
       [[params.links.list1.link]]
         text = "Email"
-        url = "mailto:londongeek@example.com"
+        url = "mailto:londongeeksca@gmail.com"
         new_tab = false # Default, open at same tab
 
   # Links List #2
