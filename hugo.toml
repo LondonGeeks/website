@@ -7,7 +7,7 @@ disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
 disableHugoGeneratorInject = true
 
 # Local preview mode
-relativeURLs = true
+relativeURLs = false
 uglyURLs = true
 
 # Copyright
