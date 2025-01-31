@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://londongeeks.github.io/website/"
+baseURL = "https://www.londongeeks.ca/"
 languageCode = "en-CA"
 title = "Geeks of London"
 theme = "split"
