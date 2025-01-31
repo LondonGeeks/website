@@ -11,7 +11,7 @@ relativeURLs = true
 uglyURLs = true
 
 # Copyright
-copyright = "&copy;2024 the Geeks of London Webmasters"
+copyright = "&copy;2025 the Geeks of London Webmasters"
 
 [services]
   [services.googleAnalytics]
@@ -52,55 +52,51 @@ copyright = "&copy;2024 the Geeks of London Webmasters"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Connect"
+      heading = "Contact Us"
 
       [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
+        text = "Upcoming Meetings"
+        url = "https://www.heylo.com/g/61c6e325-35e1-41ee-a970-7c2a8515d09c"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
         text = "Email"
-        url = "#"
+        url = "mailto:londongeek@example.com"
         new_tab = false # Default, open at same tab
 
-      [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
-
   # Links List #2
-  [[params.links]]
-    [params.links.list2]
-      heading = "Social"
+  # [[params.links]]
+  #   [params.links.list2]
+  #     heading = "Social"
 
-      [[params.links.list2.link]]
-        text = "Twitter"
-        url = "#"
+  #     [[params.links.list2.link]]
+  #       text = "Twitter"
+  #       url = "#"
 
-      [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
+  #     [[params.links.list2.link]]
+  #       text = "Instagram"
+  #       url = "#"
 
-      [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
+  #     [[params.links.list2.link]]
+  #       text = "Dribbble"
+  #       url = "#"
 
   # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Network"
+  # [[params.links]]
+  #   [params.links.list3]
+  #     heading = "Network"
 
-      [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
+  #     [[params.links.list3.link]]
+  #       text = "Link One"
+  #       url = "#"
 
-      [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
+  #     [[params.links.list3.link]]
+  #       text = "Link Two"
+  #       url = "#"
 
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
+  #     [[params.links.list3.link]]
+  #       text = "Link Three"
+  #       url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
