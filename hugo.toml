@@ -60,6 +60,11 @@ copyright = "&copy;2025 the Geeks of London Webmasters"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
+        text = "Meetings (MeetUp group - please avoid)"
+        url = "https://www.meetup.com/meetup-group-qjtmzzev/"
+        new_tab = true # new tab
+
+      [[params.links.list1.link]]
         text = "Email"
         url = "mailto:londongeeksca@gmail.com"
         new_tab = false # Default, open at same tab

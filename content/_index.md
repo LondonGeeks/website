@@ -8,3 +8,6 @@ We are a group of people in London, Ontario, Canada who like getting together in
 science, science fiction and other geekery.
 
 Find our meetings on [Heylo](https://www.heylo.com/g/61c6e325-35e1-41ee-a970-7c2a8515d09c).
+
+We are also on [MeetUp](https://www.meetup.com/meetup-group-qjtmzzev/) but please use Heylo - MeetUp is extremely expensive.
+
